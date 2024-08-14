@@ -30,7 +30,7 @@ function Timeline({ noOfTimelines }: { noOfTimelines: number }) {
         x: 500,
         y: 200,
         props: {
-          text: "Click on Create Timeline to add a timeline!",
+          text: "Click on Create Timeline to add a timeline! Press 'c' key to create a timeline.",
           w: 400,
         },
       });
